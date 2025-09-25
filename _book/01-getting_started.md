@@ -15,5 +15,3 @@ This is very easy (and did we mention free?). Go to the [VADRR website](https://
 
 That’s all it takes! Now you are ready to begin setting up your project and creating your data extraction template.
 
-
-
