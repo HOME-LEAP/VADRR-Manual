@@ -7,7 +7,7 @@ author:
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://home-leap.github.io/VADRR-Manual/
 # cover-image: path to the social sharing image like images/cover.jpg
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl

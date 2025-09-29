@@ -5,7 +5,7 @@ bookdown::bs4_book:
   includes:
      in_header: [style.html]
   favicon: "favicon.ico"
-  repo: https://github.com/HOME-LEAP/VADRR-Manual
+  # repo: https://github.com/HOME-LEAP/VADRR-Manual
   
 
 # bookdown::pdf_book:

@@ -21,9 +21,9 @@ In this tutorial, we will walk you through the different screening setup options
 <h2>Organization of This Section</h2>  
 This part of the tutorial is set up in two sections:
 
-4.1 Resources for Team Leaders: This section provides information for how to set up the screening team, how to set up the screener so that it meets your team’s needs (there are many options for this), and how to track progress.
+[4.1 Resources for Team Leaders](https://home-leap.github.io/VADRR-Manual/vadrr-screener.html#leaders): This section provides information for how to set up the screening team, how to set up the screener so that it meets your team’s needs (there are many options for this), and how to track progress.
 
-4.2 Resources for Screeners: This section provides basic instructions for members of the screening team–how to effectively use the tool.
+[4.2 Resources for Screeners](https://home-leap.github.io/VADRR-Manual/vadrr-screener.html#screenerS): This section provides basic instructions for members of the screening team–how to effectively use the tool.
 
 <br>
 
@@ -34,7 +34,7 @@ This part of the tutorial is set up in two sections:
 In the following, we provide step-by-step instructions for project managers to set up and carry out title/article screening for their projects.
 
 ### First Step: Upload Your Citations and Then Find the Abstract/Title Screener
-Before you can use the Abstract Screening tool, you need to upload your citations (see 3.0 Uploading Article Citations). Once you have done this, all the citations are automatically entered into the Abstract Screening Unscreened status on the Project Dashboard.
+Before you can use the Abstract Screening tool, you need to upload your citations (see [3.0 Uploading Article Citations](https://home-leap.github.io/VADRR-Manual/upload.html#upload)). Once you have done this, all the citations are automatically entered into the Abstract Screening Unscreened status on the Project Dashboard.
 
 <img src="_figs/1-cites-in-project-dashboard.png">
 

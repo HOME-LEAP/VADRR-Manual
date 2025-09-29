@@ -5,9 +5,9 @@
 There are three things you need to do to set up your project in SRDR.  
 
 <!-- needs indent / update link info -->
-* Create the project and enter basic project information
-* Create your key questions
-* Enter the project members
+* [Create the project and enter basic project information](https://home-leap.github.io/VADRR-Manual/setup.html#creating-your-project)
+* [Create your key questions](https://home-leap.github.io/VADRR-Manual/setup.html#enter-your-key-questions)
+* [Enter the project members](https://home-leap.github.io/VADRR-Manual/setup.html#enter-project-members-and-set-their-roles)
 
 
 ## Creating Your Project
@@ -77,7 +77,7 @@ We will walk through these options now.
 |
 |    **Auditors:** These are individuals who cannot make changes to the project, but who can view the project (e.g., as an additional quality assurance step).
 |
-|    **Experts:** In the screening tool (see VADRR 4.0.1 Screening Tool Resources for Team Leaders), you have the ability to differentiate topical experts from novices. Identifying topical experts can ensure that no article is screened without at least one expert viewing the article.
+|    **Experts:** In the screening tool (see [VADRR 4.0.1 Screening Tool Resources for Team Leaders](https://sites.rutgers.edu/shp-msst/srdr-4-screening/srdr-4-1-screening-tool-resources-for-team-leaders/)), you have the ability to differentiate topical experts from novices. Identifying topical experts can ensure that no article is screened without at least one expert viewing the article.
 |
 
 Here is a full description of the different things the different roles can do.
