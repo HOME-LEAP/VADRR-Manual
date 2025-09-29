@@ -4,7 +4,6 @@
 
 There are three things you need to do to set up your project in SRDR.  
 
-<!-- needs indent / update link info -->
 * [Create the project and enter basic project information](https://home-leap.github.io/VADRR-Manual/setup.html#creating-your-project)
 * [Create your key questions](https://home-leap.github.io/VADRR-Manual/setup.html#enter-your-key-questions)
 * [Enter the project members](https://home-leap.github.io/VADRR-Manual/setup.html#enter-project-members-and-set-their-roles)
