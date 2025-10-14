@@ -67,3 +67,4 @@ what-details-should-you-capture-in-the-arms-or-diagnostic-test-details-tab
 outcome-suggest
 setting-up-outcomes
 setting-up-diagnoses
+test-chapter
