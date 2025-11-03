@@ -34,8 +34,10 @@ when-do-you-see-results
 what-do-the-results-mean
 when-should-we-stop-screening
 downloading-screening-results
-screenerS
+screening-instructions-for-screeners
 the-basics
+getting-started
+the-screening-page
 title-abstract-and-publication-information
 include-exclude-maybe-choices
 rejection-reasons
